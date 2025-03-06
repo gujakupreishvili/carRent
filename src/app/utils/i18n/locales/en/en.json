@@ -2,5 +2,8 @@
   "main":"main",
   "cars":"cars",
   "aboutUs":"about us",
-  "contact":"contact"
+  "contact":"contact",
+  "prepared":"We Have Prepared a Car For Your Trip ",
+  "types":"We have many types of cars that are ready for you to travel anywhere and anytime.",
+  "ourCars":"Our Car"
 }
