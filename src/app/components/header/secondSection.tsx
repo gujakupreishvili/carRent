@@ -7,7 +7,7 @@ export default function SecondSection() {
   const { t } = useTranslation(); 
 
   return (
-    <div className='flex relative px-[12%] h-[755px] '>
+    <div className='flex relative px-[12%] lg:h-[755px] '>
       <div className='mt-[100px] lg:ml-[-70px]'>
         <h1 className='text-[30px] lg:text-[50px] lg:w-[450px]   text-[#595959]'>{t("prepared")}</h1>
         <p className='text-[20px]  lg:w-[500px] mt-[30px] text-[#737373] '>

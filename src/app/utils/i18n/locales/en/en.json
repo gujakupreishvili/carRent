@@ -5,5 +5,29 @@
   "contact":"contact",
   "prepared":"We Have Prepared a Car For Your Trip ",
   "types":"We have many types of cars that are ready for you to travel anywhere and anytime.",
-  "ourCars":"Our Car"
+  "ourCars":"Our Car",
+  "pickUp":{
+    "pickup":"pick-up",
+    "location":"location",
+    "select city":"select your city",
+    "date":"date",
+    "select date":"select your date",
+    "time":"time",
+    "select time":"select your time"
+  },
+  "dropOff":{
+    "dropoff":"drop-off",
+    "location":"location",
+    "select city":"select your city",
+    "date":"date",
+    "select date":"select your date",
+    "time":"time",
+    "select time":"select your time"
+  },
+  "carTypes":{
+    "economy":"Economy Class",
+    "standart":"Standart",
+    "suv":"Suv",
+    "van":"Van"
+  }
 }
